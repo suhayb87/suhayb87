@@ -1,13 +1,35 @@
-### 👋 Hi, I’m Suhayb Ali
+# Welcome to My GitHub
 
-- 👀 I’m interested in full-stack web development, programming language design, operating systems, and artificial intelligence. I'm also passionate about creating educational software solutions for schools.
-- 🌱 I’m currently learning advanced web development, AI model training, and diving deeper into open-source projects.
-  - I’m looking to collaborate on innovative tech projects, particularly those involving AI, web development, and educational platforms.
-- 📫 How to reach me: You can connect with me on email me at suhayb0872@gmail.com.
-- ⚡ Fun fact: I love balancing tech work with creative writing, especially poetry and fiction!
+**Hi, I'm Suhayb Ali Muhumed.**  
+An aspiring systems developer, security researcher, and technology enthusiast passionate about building **secure**, **efficient**, and **impactful** software.
 
-<!---
-suhayb87/suhayb87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+On this GitHub, you'll find projects focused on:
+- **Cybersecurity** (offensive and defensive tools)
+- **System-level development** (C/C++ applications)
+- **Security engineering** (real-time monitoring and analysis tools)
+- **CLI utilities** for system automation and productivity
+- **Research-based prototypes** in software, networking, and emerging technologies
+
+I believe in building tools that are:
+- **Robust** – Designed to perform under real-world conditions
+- **Scalable** – Architected for growth and evolution
+- **Readable** – Clean, modular code for collaboration and future-proofing
+- **Purpose-driven** – Focused on solving real problems, not just creating features
+
+---
+
+## About Me
+- Focus areas: **Systems programming, cybersecurity, secure communications, AI-enabled security**
+- Languages: **C, C++, Python, Bash, JavaScript (for minimal web utilities)**
+- Interests: **Kernel development, digital forensics, ethical hacking, cyber defense, low-level optimization**
+- Vision: **Build resilient technologies that empower people**
+
+## Let's Connect
+I'm always open to collaboration, knowledge-sharing, and building meaningful, secure technology together.  
+Feel free to explore my work, open issues, suggest improvements, or just say hi!
+Email: suhayb0872@gmail.com 
+---
+
+**_"Technology built with integrity changes the world."_**
+
 
